@@ -13,6 +13,6 @@
 <ul>
     <li><a href="https://vk.com/away.php?to=https%3A%2F%2Fwww.figma.com%2Ffile%2F65m8vicZTv1bLjGv9etVAj%2FUser-story%3Fnode-id%3D0%253A1%26t%3DLRYt2ug8gH0LPcLH-1&cc_key=">Figma</a> - дизайн прилжения</li>
     <li><a href="https://vk.com/away.php?to=https%3A%2F%2Ftrello.com%2Finvite%2Fuser84380638%2FATTIbfc4679adf71dc385bee416fc3f3614286AFF238">Trello</a> - распределение задач</li>
-    <li><a href="https://vk.com/olegofriend69">Сюда пиро поставить ссылку</a> - UML-диаграммы</li>
+    <li><a href="https://vk.com/olegofriend69">Сюда миро поставить ссылку</a> - UML-диаграммы</li>
 </ul>
 
