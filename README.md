@@ -12,7 +12,7 @@
 <h2>Сервисы для работы</h2>
 <ul>
     <li><a href="https://vk.com/away.php?to=https%3A%2F%2Fwww.figma.com%2Ffile%2F65m8vicZTv1bLjGv9etVAj%2FUser-story%3Fnode-id%3D0%253A1%26t%3DLRYt2ug8gH0LPcLH-1&cc_key=">Figma</a> - дизайн прилжения</li>
-    <li><a href="https://trello.com/invite/b/OOICsfXz/ATTIe7ff68a16fbcd1fed6c42b235c755fc8F43EEB24/chirk">Trello</a> - распределение задач</li>
+    <li><a href="https://trello.com/b/OOICsfXz/chirk">Trello</a> - распределение задач</li>
     <li><a href="https://miro.com/app/board/uXjVMekCUVE=/">Miro</a> - UML-диаграммы</li>
 </ul>
 
