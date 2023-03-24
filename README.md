@@ -22,6 +22,6 @@
 </ul>
 <h2>Реализация</h2>
 <ul>
-    <li><a href="">Front-end</a></li>
-    <li><a href="">Back-end</a></li> 
+    <p>Front-end</p>
+    <p>Back-end</p>
 </ul>
