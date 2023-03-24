@@ -18,5 +18,5 @@
 <h2>Документация</h2>
 <ul>
     <li><a href="https://1drv.ms/w/s!Aj61FK8CQ_FdrAGWMEeALHhHZ-zb?e=M2E69z">Техническое Задание</a></li>
-    <li><a href="">Курсовая работа</a></li> 
+    <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Курсовой%20проект.pdf">Курсовой проект</a></li> 
 </ul>
