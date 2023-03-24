@@ -20,3 +20,8 @@
     <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Техническое%20задание.pdf">Техническое Задание</a></li>
     <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Курсовой%20проект.pdf">Курсовой проект</a></li> 
 </ul>
+<h2>Реализация</h2>
+<ul>
+    <li><a href="">Front-end</a></li>
+    <li><a href="">Back-end</a></li> 
+</ul>
