@@ -23,5 +23,5 @@
 <h2>Реализация</h2>
 <ul>
     <a href = "https://github.com/teamTP/frontChirk">Front-end</a>
-    <p>Back-end</p>
+    <a href = "https://github.com/teamTP/backChirk">Back-end</a>
 </ul>
