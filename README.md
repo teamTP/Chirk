@@ -28,3 +28,7 @@
     <li><a href = "https://github.com/teamTP/frontChirk">Front-end</a></li>
     <li><a href = "https://github.com/teamTP/backChirk">Back-end</a></li>
 </ul>
+<h2>Видео</h2>
+<ul>
+    <li><a href = "Видео/front-end.mp4">Видео Front-end</a></li>
+</ul>
