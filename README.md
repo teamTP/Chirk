@@ -21,15 +21,11 @@
     <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Курсовой%20проект.pdf">Курсовой проект</a></li> 
     <li><a href="http://92.53.115.78:8080/swagger-ui/index.html">Swagger документация</a></li> 
     <li><a href="http://92.53.115.78:3001/d/X034JGT7Gz/springboot-apm-dashboard?orgId=1&from=now-1h&to=now">Метрики</a></li> 
-    <li><a href="https://drive.google.com/drive/folders/1MI3M0Y5EwfFqqQ7HhL_mtVLFVKY3vfID">Метрики</a></li> 
+    <li><a href="https://drive.google.com/drive/folders/1MI3M0Y5EwfFqqQ7HhL_mtVLFVKY3vfID">Видео обзоры</a></li> 
 </ul>
 <h2>Реализация</h2>
 <ul>
     <li><a href = "https://drive.google.com/file/d/1LvSLDzksv2CgqeG0h2qd3tW_m-UJfly_/view?usp=sharing">Приложение для android</a></li>
     <li><a href = "https://github.com/teamTP/frontChirk">Front-end</a></li>
     <li><a href = "https://github.com/teamTP/backChirk">Back-end</a></li>
-</ul>
-<h2>Видео</h2>
-<ul>
-    <li><a href = "Видео/front-end.mp4">Видео Front-end</a></li>
 </ul>
