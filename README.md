@@ -19,6 +19,7 @@
 <ul>
     <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Техническое%20задание.pdf">Техническое Задание</a></li>
     <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Курсовой%20проект.pdf">Курсовой проект</a></li> 
+    <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Презентация.pptx">Презентация</a></li> 
     <li><a href="http://92.53.115.78:8080/swagger-ui/index.html">Swagger документация</a></li> 
     <li><a href="http://92.53.115.78:3001/d/X034JGT7Gz/springboot-apm-dashboard?orgId=1&from=now-1h&to=now">Метрики</a></li> 
     <li><a href="https://drive.google.com/drive/folders/1MI3M0Y5EwfFqqQ7HhL_mtVLFVKY3vfID">Видео обзоры</a></li> 
