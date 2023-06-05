@@ -2,12 +2,12 @@
 <p>Мобильное android-приложение для людей, которые любят поделиться своими мыслями. </p>
 <h2>Разработчики, принимающие участие (ТП-6.1-4)</h2>
 <ul>
-    <li><a href="https://vk.com/olegofriend69">Лукашев Олег</a> (Teamlead)</li>
-    <li><a href="https://vk.com/melkorvrn">Мануковский Илья</a></li>
-    <li><a href="https://vk.com/dashich_gr">Грибанова Дарья</a></li>
-    <li><a href="https://vk.com/micropisa">Пеканов Никита</a></li>
-    <li><a href="https://vk.com/mertcanakmzrak">Акмызрак Мерт Джан</a></li>
-    <li><a href="https://vk.com/id578034457">Бабирье Джанат Кубиита</a></li>
+    <li><a href="https://vk.com/olegofriend69">Лукашев Олег </a>(Teamlead/Backend Developer)</li>
+    <li><a href="https://vk.com/melkorvrn">Мануковский Илья </a>(Frontend Developer)</li>
+    <li><a href="https://vk.com/dashich_gr">Грибанова Дарья </a>(Backend Developer/Technical Writers)</li>
+    <li><a href="https://vk.com/micropisa">Пеканов Никита </a>(Backend Developer/DevOps Engineer)</li>
+    <li><a href="https://vk.com/mertcanakmzrak">Акмызрак Мерт Джан </a>(Frontend Developer)</li>
+    <li><a href="https://vk.com/id578034457">Бабирье Джанат Кубиита </a>(QA Engineer)</li>
 </ul>
 <h2>Сервисы для работы</h2>
 <ul>
