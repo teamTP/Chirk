@@ -30,8 +30,8 @@
 </ul>
 <h2>Реализация</h2>
 <ul>
-    <li><a href = "https://drive.google.com/file/d/1LvSLDzksv2CgqeG0h2qd3tW_m-UJfly_/view?usp=sharing">Приложение для android</a></li>
-    <li><a href = "https://github.com/teamTP/frontChirk">Front-end</a></li>
-    <li><a href = "https://github.com/teamTP/backChirk">Back-end</a></li>
-    <li><a href = "https://github.com/Pekanov/adminPanelFromChirk">Admin panel</a></li>
+    <li><a href = "https://drive.google.com/file/d/1U9ey5OjY3VHpE60KOjEW4qcdPTMP3Rnm/view?usp=sharing">Приложение для Android</a></li>
+    <li><a href = "https://github.com/teamTP/frontChirk">Клиентская часть</a></li>
+    <li><a href = "https://github.com/teamTP/backChirk">Серверная часть</a></li>
+    <li><a href = "https://github.com/Pekanov/adminPanelFromChirk">Админ панель</a></li>
 </ul>
