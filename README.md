@@ -23,7 +23,9 @@
     <li><a href="http://92.53.115.78:8080/swagger-ui/index.html">Swagger документация</a></li> 
     <li><a href="https://drive.google.com/drive/folders/1OqDrvT0J8dQ4yYsSYuHcVxXdbUj7ONgk">Скрины метрик</a></li> 
     <li><a href="https://drive.google.com/drive/folders/1MI3M0Y5EwfFqqQ7HhL_mtVLFVKY3vfID">Видео обзоры</a></li> 
-    <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Panel%20Admin%20инструкция.pdf">Инструкция для Admin Panel</a></li> 
+    <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Admin%20panel%20иструкция%20.pdf">Инструкция для Admin Panel</a></li>
+    <li><a href="https://github.com/teamTP/Chirk/blob/main/Документы/Данные%20для%20входа.pdf">Данные для входа</a></li> 
+
     
 </ul>
 <h2>Реализация</h2>
